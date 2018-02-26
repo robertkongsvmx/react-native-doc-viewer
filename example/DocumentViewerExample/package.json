@@ -9,8 +9,9 @@
 	"dependencies": {
 		"react": "16.0.0",
 		"react-native": "0.50.3",
-		"react-native-fs":"^2.3.2",
-		"react-native-doc-viewer": "2.7.3"
+		"react-native-doc-viewer": "2.7.3",
+		"react-native-event-bridge": "^0.8.0",
+		"react-native-fs": "^2.3.2"
 	},
 	"devDependencies": {
 		"babel-jest": "21.2.0",

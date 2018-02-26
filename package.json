@@ -1,4 +1,3 @@
-
 {
   "name": "react-native-doc-viewer",
   "version": "2.7.3",
@@ -22,14 +21,14 @@
   "license": "MIT",
   "peerDependencies": {
     "react": "16.0.0",
-		"react-native": "0.50.3",
-		"react-native-fs":"^2.3.2",
-		"react-native-doc-viewer": "2.7.3"
+    "react-native": "0.50.3",
+    "react-native-fs": "^2.3.2",
+    "react-native-doc-viewer": "2.7.3"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/philipphecht/react-native-doc-viewer.git"
   },
-    "readme": "https://github.com/philipphecht/react-native-doc-viewer/blob/master/README.md",
+  "readme": "https://github.com/philipphecht/react-native-doc-viewer/blob/master/README.md",
   "homepage": "https://github.com/philipphecht/react-native-doc-viewer/blob/master/README.md"
 }
